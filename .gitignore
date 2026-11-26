@@ -1,0 +1,12 @@
+# Служебные файлы Visual Studio
+.vs/
+bin/
+obj/
+*.user
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Папка от неудачного клонирования (если она есть)
+hr-department-system/
